@@ -1,0 +1,7 @@
+﻿  TiVa_TestDlg.cpp
+c:\users\김민상\desktop\final\오전 344\tiva_test\tiva_test\tiva_testdlg.cpp(518): warning C4244: '+=': 'unsigned long'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김민상\desktop\final\오전 344\tiva_test\tiva_test\tiva_testdlg.cpp(555): warning C4244: '=': 'unsigned long'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김민상\desktop\final\오전 344\tiva_test\tiva_test\tiva_testdlg.cpp(581): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\김민상\desktop\final\오전 344\tiva_test\tiva_test\tiva_testdlg.cpp(582): warning C4244: '=': 'unsigned long'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TiVa_Test.vcxproj -> C:\Users\김민상\Desktop\Final\오전 344\TiVa_Test\x64\Debug\TiVa_Test.exe
+  TiVa_Test.vcxproj -> C:\Users\김민상\Desktop\Final\오전 344\TiVa_Test\x64\Debug\TiVa_Test.pdb (Partial PDB)
